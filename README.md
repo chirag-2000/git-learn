@@ -16,3 +16,12 @@
 
     	***All this text is important***
 ...
+
+To format code or text into its own distinct block, use triple backticks.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
