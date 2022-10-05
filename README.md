@@ -5,7 +5,7 @@
 **hello**
 
 # TEXT Added in remote 
-## The second largest heading
+## Also added in remote (pull)
 ###### The smallest heading
 
 *This text is italicized*
